@@ -29,12 +29,12 @@ $ python3 __main__.py
 ### Client
 ```bash
 
-# Use telnet to connect with our server
-$ telnet 127.0.0.1 8080
+# Use telnet client to connect to the server
+$ telnet 127.0.0.1 8000
 
 ```
 
-## 🛠 Commands
+## </> Commands
 
 ### 🆕 Create
 
