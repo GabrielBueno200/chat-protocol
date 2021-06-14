@@ -1,6 +1,6 @@
-## 💻 About The Project
+## 💻 The Project
 
-In this project, we implemented a chat application protocol in python.
+In this project, we've implemented a chat application protocol in python.
 
 Our application runs on the terminal using *telnet* client.
 
@@ -97,11 +97,3 @@ Requires: authentication; stay in some room and be its admin
 ### ❌ Decline
 Type `decline <username>` to reject some pending user in your room
 Requires: authentication; stay in some room and be its admin 
-
-
-
-
-
-
-
-
