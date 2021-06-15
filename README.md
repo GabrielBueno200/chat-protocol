@@ -49,7 +49,7 @@ Type `create -r <room name>` to create a room.\
 Type `login <username> <pass>` to login in the server
 
 ### ⬇️ Logout
-Type `logout` to logout the server.
+Type `logout` to logout the server.\
 *Requires*: authentication
 
 ### 📜 List
@@ -57,7 +57,7 @@ Type `logout` to logout the server.
 #### 1 - Users
 
 ##### 1.1 - Users at room
-Type `list users` to see users joined at room.
+Type `list users` to see users joined at room.\
 *Requires*: authentication; stay in some room and be its admin.\
 
 ##### 1.2 - Pending users at room
